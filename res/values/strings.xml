@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UAT Controller</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Logo">Logo</string>
+    <string name = "SelfAssAdd">Self Assigned Address</string>
+    <string name="Title">UAT Control Panel</string>
+    <string name="N_NumLabel">Large Text</string>
+</resources>
